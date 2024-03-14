@@ -1,0 +1,11 @@
+C:\Users\Karen\source\repos\Api\CapaEntidades\bin\Debug\net6.0\CapaEntidades.deps.json
+C:\Users\Karen\source\repos\Api\CapaEntidades\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Karen\source\repos\Api\CapaEntidades\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.dll
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\refint\CapaEntidades.dll
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Karen\source\repos\Api\CapaEntidades\obj\Debug\net6.0\ref\CapaEntidades.dll

@@ -1,0 +1,17 @@
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaDatos.runtimeconfig.json
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.genruntimeconfig.cache
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Karen\source\repos\Api\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Karen\source\repos\Api\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.Up2Date

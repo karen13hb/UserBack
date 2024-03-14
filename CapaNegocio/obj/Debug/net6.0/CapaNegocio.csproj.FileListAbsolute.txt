@@ -1,0 +1,17 @@
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNego.81B9D119.Up2Date
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Karen\source\repos\Api\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Karen\source\repos\Api\CapaNegocio\bin\Debug\net6.0\CapaEntidades.pdb
